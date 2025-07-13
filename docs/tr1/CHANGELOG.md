@@ -8,6 +8,7 @@
     - renamed "FBO filter" option to "Upscaling filter" (Graphic options → Rendering → Upscaling filter)
     - greatly improved text and other UI rendering with upscaling turned on (#1944)
     - changed screenshots to always produce images at desktop resolution
+- added German translation
 - added French translation
 - added Gaelic translation
 - added Italian translation to the installer
